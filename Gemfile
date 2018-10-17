@@ -10,5 +10,5 @@ group :development do
 end
 
 
-gem "rspec"
+gem "rspec", :group => :test
  
